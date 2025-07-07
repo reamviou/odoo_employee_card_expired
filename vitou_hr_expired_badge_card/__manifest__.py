@@ -3,13 +3,13 @@
 
 ###############################################################################
 {
-    'name': 'HR Employee Expired Date',
-    'version': '18.0.1.0.0',
+    'name': 'Employee Card Expired Date',
+    'version': '18.0.1.0.1',
     'category': 'HR',
-    'summary': """This module add expired date in card of employee""",
+    'summary': """Employee Card expired date, Odoo card expired date""",
     'author': "V Technologies",
     'company': 'V Technologies',
-    'maintainer': 'Mr. REAM Vitou, Tel: (+855) 17 82 66 82',
+    'maintainer': 'V Technologies',
     'website': 'https://apps.odoo.com/apps/modules/browse?search=vitou',
     'depends': ['hr'],
     'license': 'OPL-1',
